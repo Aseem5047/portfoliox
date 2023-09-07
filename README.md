@@ -1,10 +1,10 @@
-![image](https://github.com/Aseem5047/portfoliox/assets/80787027/720cc527-5cc3-443e-a71c-a68a0c21e940)
+![image](https://github.com/Aseem5047/portfoliox/assets/80787027/c410ea47-af6f-42a5-b337-cdc71356a231)
 
 This is a personal portfolio design that utilizes the functionality of threejs and follows a clean and simple design powered with some smooth animations.
 
-![image](https://github.com/Aseem5047/portfoliox/assets/80787027/a7018ff7-6613-409d-ae86-63de2d4ca892)
+![image](https://github.com/Aseem5047/portfoliox/assets/80787027/07ff670e-72c0-424c-95c4-6e8ccbf043b8)
 
-![image](https://github.com/Aseem5047/portfoliox/assets/80787027/cb0de4b0-58cb-4ff5-b301-0e2ddc789ff0)
+![image](https://github.com/Aseem5047/portfoliox/assets/80787027/ddbb548d-5479-4b2d-92ac-633fc981c634)
 
 # Tech Used
   * ReactJs
@@ -15,9 +15,7 @@ This is a personal portfolio design that utilizes the functionality of threejs a
   * Threejs
   * Emailjs
 
-![image](https://github.com/Aseem5047/portfoliox/assets/80787027/5d149b90-c28d-48a0-a54a-78677be033ed)
-
-![image](https://github.com/Aseem5047/portfoliox/assets/80787027/a9c91a1b-96a1-4137-9277-5da3488d6336)
+![image](https://github.com/Aseem5047/portfoliox/assets/80787027/7af24b33-47b2-4fb3-878b-a21e1c374fb0)
 
 # Steps to run in your machine
 ### Run the following commands
@@ -27,6 +25,7 @@ This is a personal portfolio design that utilizes the functionality of threejs a
 
 ![image](https://github.com/Aseem5047/portfoliox/assets/80787027/b6796e56-678d-4562-ad3b-d22d2d1118c8)
 
+![image](https://github.com/Aseem5047/portfoliox/assets/80787027/080ef19a-f89b-4a76-95d8-d66933968ae4)
 
 # React + Vite
 
