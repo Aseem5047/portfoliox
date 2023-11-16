@@ -307,8 +307,50 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: "https://private-user-images.githubusercontent.com/80787027/257933210-0db55535-1a33-428b-aa8e-9f778beb71c4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTI1MzQ4NTIsIm5iZiI6MTY5MjUzNDU1MiwicGF0aCI6Ii84MDc4NzAyNy8yNTc5MzMyMTAtMGRiNTU1MzUtMWEzMy00MjhiLWFhOGUtOWY3NzhiZWI3MWM0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA4MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwODIwVDEyMjkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViODY3ZWYwY2UzYzFiMTkxMGJjZTRkMzI2OGY2OWYyMzY0MWE4ODAzYjVlMTViNGI5OTNhZjE4MjczYzQyMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nUtewUitFOY54GUfAhbpEqLSZ22HijaoqBXZgOdGGd4",
+        image: "https://user-images.githubusercontent.com/80787027/266274270-6e180514-38c8-4704-ae3a-582b4e0b0da6.png",
         source_code_link: "https://github.com/Aseem5047/youtube",
+    },
+    {
+        name: "Connect",
+        description:
+            "Connect is a cutting-edge web application that redefines social networking, providing users with a vibrant and interactive platform.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "appwrite",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tanstack",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: "https://user-images.githubusercontent.com/80787027/283418551-a0c5c3de-3bee-41e4-89d2-35a5540d78ea.png",
+        source_code_link: "https://github.com/Aseem5047/socialconnect",
+    },
+    {
+        name: "CrowdVista",
+        description:
+            "The Next.js TypeScript Twitter Clone is a cutting-edge web application that replicates the core functionalities of the popular social media platform Twitter.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "mongodb",
+                color: "green-text-gradient",
+            },
+            {
+                name: "tailwind css",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: "https://user-images.githubusercontent.com/80787027/283433172-9198bdfe-eb1c-42ef-b541-fe97f4e98d71.png",
+        source_code_link: "https://github.com/Aseem5047/crowdvista",
     },
 ];
 
