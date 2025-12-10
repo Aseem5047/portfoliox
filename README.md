@@ -25,8 +25,6 @@
   * npm i
   * npm run dev
 
-![image](https://github.com/Aseem5047/portfoliox/assets/80787027/b6796e56-678d-4562-ad3b-d22d2d1118c8)
-
 ![image](https://github.com/Aseem5047/portfoliox/assets/80787027/080ef19a-f89b-4a76-95d8-d66933968ae4)
 
 # React + Vite
